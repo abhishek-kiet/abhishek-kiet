@@ -11,13 +11,6 @@
 
 - 📫 How to reach me **abhishek.2428cse1292@kiet.edu**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/tezas.thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tezas.thakur" height="30" width="40" /></a>
-</p>
-# 💫 About Me:
-## About Me :<br><br>🛠 I’m currently working on:  <br>A custom 🎧 **Music Player** with sleek UI, real-time search, and YouTube API integration using JavaScript and React.<br><br>🤝 I’m looking to collaborate on:  <br>Creative frontend apps, open-source music tech projects, and AI-powered interfaces.<br><br>🧠 I’m looking for help with:  <br>Optimizing API response times and improving audio player UX on mobile.<br><br>🌱 I’m currently learning:  <br>React Animations, Tailwind CSS, advanced Node.js, and how to securely integrate third-party APIs.<br><br>💬 Ask me about:  <br>Music apps, React development, Node backends, or how I design anime edits with Filmora.<br><br>⚡ Fun fact:  <br>I like turning everyday app ideas into smooth, interactive experiences—with just a bit of extra flair 💥.<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tezas.thakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soul-bot) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.2428cse1292@kiet.edu) 
