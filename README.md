@@ -62,7 +62,16 @@
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ---
+## 🌟 Portfolio
+🌐 Explore my work and projects on my portfolio website:  
 
+👉 [**soul-abhi.netlify.app**](https://soul-abhi.netlify.app/)
+
+<a href="https://soul-abhi.netlify.app/">
+  <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
