@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-kiet&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-kiet" /> </p>
 
-- 🔭 I’m currently working on **YT MUSIC PLAYER**
+- 🔭 I’m currently working on **CODE ALPHA PROJECT**
 
-- 🌱 I’m currently learning **OOPS WITH JAVA**
+- 🌱 I’m currently learning **OCI(Oracle Cloud Infrastructure)**
 
-- 💬 Ask me about **HCJ , Web Developement , Figma**
+- 💬 Ask me about **HCJ , Web Developement , Figma , DBMS**
 
-- 📫 How to reach me **abhishek.2428cse1292@kiet.edu**
+- 📫 How to reach me **iamabhisheksingh28@gmail.com**
 
 
 ## 🌐 Socials:
